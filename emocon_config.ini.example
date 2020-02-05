@@ -1,0 +1,3 @@
+[DEFAULT]
+SOURCE_DIR=/path/to/SourceData
+BEHAV_DIR=/path/to/BehavData
